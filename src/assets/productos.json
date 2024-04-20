@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "nombre": "Tiratrailer Tracker 2023+",
+      "descripcion": "Tiratrailer Enforth Chevrolet Tracker 2023+",
+      "precio": 819.99,
+      "imagen": "https://hltuning.com/imagen_bd/tiratrailer/2.png"
+    },
+    {
+      "id": 2,
+      "nombre": "Tiratrailer Corolla Cross 2020+",
+      "descripcion": "Tiratrailer Enforth Corolla Cross 2020+",
+      "precio": 24.989,
+      "imagen": "https://hltuning.com/imagen_bd/tiratrailer/3.png"
+    },
+    {
+      "id": 3,
+      "nombre": "Tiratrailer Kia Sportage 2023+",
+      "descripcion": "Tiratrailer Enforth Kia Sportage 2023+",
+      "precio": 184.99,
+      "imagen": "https://hltuning.com/imagen_bd/tiratrailer/4.png"
+    },
+    {
+        "id": 4,
+        "nombre": "Tiratrailer Nissan Kicks 2016+",
+        "descripcion": "Tiratrailer Enforth para Nissan Kicks 2016+",
+        "precio": 148.99,
+        "imagen": "https://hltuning.com/imagen_bd/tiratrailer/5.png"
+      }
+  ]
+  
